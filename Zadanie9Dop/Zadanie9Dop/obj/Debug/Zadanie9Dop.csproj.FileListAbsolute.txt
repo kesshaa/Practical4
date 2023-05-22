@@ -1,0 +1,14 @@
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\MainWindow.g.cs
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\App.g.cs
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop_MarkupCompile.cache
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop_MarkupCompile.lref
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\bin\Debug\Zadanie9Dop.exe.config
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\bin\Debug\Zadanie9Dop.exe
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\bin\Debug\Zadanie9Dop.pdb
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\MainWindow.baml
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop.g.resources
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop.Properties.Resources.resources
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop.csproj.GenerateResource.cache
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop.exe
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie9Dop\Zadanie9Dop\obj\Debug\Zadanie9Dop.pdb

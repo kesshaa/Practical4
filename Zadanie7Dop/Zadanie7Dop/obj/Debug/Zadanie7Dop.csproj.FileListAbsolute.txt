@@ -1,0 +1,14 @@
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\bin\Debug\Zadanie7Dop.exe.config
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\bin\Debug\Zadanie7Dop.exe
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\bin\Debug\Zadanie7Dop.pdb
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\MainWindow.g.cs
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\App.g.cs
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop_MarkupCompile.cache
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop_MarkupCompile.lref
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\MainWindow.baml
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop.g.resources
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop.Properties.Resources.resources
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop.csproj.GenerateResource.cache
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop.exe
+E:\УЧЕБА\ПРАКТИКА\Practi4\Zadanie7Dop\Zadanie7Dop\obj\Debug\Zadanie7Dop.pdb
